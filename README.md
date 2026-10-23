@@ -7,4 +7,15 @@ I write them to learn by explaining: if I'm able to explain a comcept simply, I'
 ## What's inside
 Hands-on notebooks that follow my learning path, from an MLP baseline to simple CNNs and classic architetures (like AlexNet, ResNet18), all in PyTorch. This is a work in progress, so more topics (like transfer learning and other concepts) will be added as I learn them.
 
+## What's inside
+Hands-on notebooks that follow my learning path, from an MLP baseline to
+simple CNNs and classic architectures (AlexNet, ResNet18), all in PyTorch.
+This is a work in progress, so more topics (like transfer learning) will be
+added as I learn them.
 
+## Who it's for
+Beginners in computer vision. I suggest reading the notebooks in order.
+
+## Feedback
+Found an error or have a better explanation? Please open an issue. I'd love
+to learn from it.
