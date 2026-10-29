@@ -1,4 +1,4 @@
-# 🖥️  | Computer Vision Foundatios
+# 🖥️  | LIPAI-Onboarding
 
 Hi! Welcome to my study notes and experiments on deep learning for images, written in my own words. They are from LIPAI, a course offered at Federal University of Uberlândia (UFU).  
 
